@@ -6,5 +6,13 @@ Pattern Projection Solution for Rapid and Accurate Tunnel Face Blasting Implemen
 
 <img width="1206" height="641" alt="image" src="https://github.com/user-attachments/assets/cd69925d-cf65-4059-96cf-fd4040bf93f9" />
 
+A simple solution to speed up tunnel excavation via drilling & blasting. Instead of manually marking blasting patterns on tunnel faces (which is time-consuming and dangerous), we developed a solution that projects the patterns directly onto the rock surface using regular projectors.
 
+The main challenge was getting the projection system properly aligned, so we created software that makes digital alignment easier on tunnel faces. The method uses existing benchmarks in the tunnel for spatial positioning, eliminating the need for separate surveying operations.
+
+Still some challenges to work through - underground lighting and uneven rock surfaces aren't ideal for projection - but it's a step toward making tunnel construction more efficient and safer.
+
+Open Access Paper: https://www.ksrm.net/articles/article/N859/
+
+Video Abstract: https://youtu.be/6PT5EnT-a3w?si=U43E6UN5CV0OUCtu 
 
